@@ -1,4 +1,4 @@
-# AllstateClaimsPredictionAtKaggle
+# Allstate Claims Prediction At Kaggle
 
 I recently finished the AllState Severity Prediction at Kaggle.com and here I am sharing my code. 
 
